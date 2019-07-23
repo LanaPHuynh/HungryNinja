@@ -1,0 +1,11 @@
+/Users/lanahuynh/Desktop/C#/HungryHuman/bin/Debug/netcoreapp2.1/HungryHuman.deps.json
+/Users/lanahuynh/Desktop/C#/HungryHuman/bin/Debug/netcoreapp2.1/HungryHuman.runtimeconfig.json
+/Users/lanahuynh/Desktop/C#/HungryHuman/bin/Debug/netcoreapp2.1/HungryHuman.runtimeconfig.dev.json
+/Users/lanahuynh/Desktop/C#/HungryHuman/bin/Debug/netcoreapp2.1/HungryHuman.dll
+/Users/lanahuynh/Desktop/C#/HungryHuman/bin/Debug/netcoreapp2.1/HungryHuman.pdb
+/Users/lanahuynh/Desktop/C#/HungryHuman/obj/Debug/netcoreapp2.1/HungryHuman.csprojAssemblyReference.cache
+/Users/lanahuynh/Desktop/C#/HungryHuman/obj/Debug/netcoreapp2.1/HungryHuman.csproj.CoreCompileInputs.cache
+/Users/lanahuynh/Desktop/C#/HungryHuman/obj/Debug/netcoreapp2.1/HungryHuman.AssemblyInfoInputs.cache
+/Users/lanahuynh/Desktop/C#/HungryHuman/obj/Debug/netcoreapp2.1/HungryHuman.AssemblyInfo.cs
+/Users/lanahuynh/Desktop/C#/HungryHuman/obj/Debug/netcoreapp2.1/HungryHuman.dll
+/Users/lanahuynh/Desktop/C#/HungryHuman/obj/Debug/netcoreapp2.1/HungryHuman.pdb
